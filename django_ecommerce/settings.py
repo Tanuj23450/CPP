@@ -10,7 +10,7 @@ SECRET_KEY = '5(h3#n$$mpz+3b6pqn9&^+9g1y#7ttm^54m7hff(b6e2+eyg(4'
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 INSTALLED_APPS = [
     'jazzmin',
